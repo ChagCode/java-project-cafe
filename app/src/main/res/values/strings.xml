@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="you_are_welcome">Добро пожаловать!</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in_btn">Войти</string>
+    <string name="logo_cafe_dd">Logo cafe - Dunkin Donuts</string>
+    <string name="hello">Привет, %s! Что желаете?</string>
+    <string name="drinks_tea">Чай</string>
+    <string name="drinks_coffee">Кофе</string>
+    <string name="additives">Что добавить в ваш %s?</string>
+    <string name="additives_sugar">Сахар</string>
+    <string name="additives_milk">Молоко</string>
+    <string name="additives_lemon">Лимон</string>
+    <string name="drink_type">Какой тип напитка?</string>
+    <string name="btn_order">Заказать</string>
+    <string name="name">Имя:</string>
+    <string name="drink">Напиток:</string>
+    <string name="type_drink">Тип напитка:</string>
+    <string name="additive">Добавки:</string>
+
+    <array name="types_tea">
+        <item>Зеленый</item>
+        <item>Черный</item>
+    </array>
+
+    <array name="types_coffee">
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+    </array>
+</resources>
